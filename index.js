@@ -1,6 +1,9 @@
+const exlib = require('@dougpagani/example-library')
+
 function add(a, b) {
     sum = a + b
-    console.log('Sum is:', sum)
+    printout = exlib.padLeft(sum, 10)
+    console.log('Sum is:', printout)
     return sum
 }
 
