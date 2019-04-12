@@ -1,6 +1,6 @@
 {
   "name": "@dougpagani/example-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test project for npm deprecations",
   "main": "index.js",
   "directories": {
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dougpagani/example-project.git"
+    "url": "git+https://github.com/dougpagani/npm-example-project.git"
   },
   "author": "Doug Pagani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dougpagani/example-project/issues"
+    "url": "https://github.com/dougpagani/npm-example-project/issues"
   },
-  "homepage": "https://github.com/dougpagani/example-project#readme"
+  "homepage": "https://github.com/dougpagani/npm-example-project#readme"
 }
