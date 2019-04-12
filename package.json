@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dougpagani/npm-example-project/issues"
   },
-  "homepage": "https://github.com/dougpagani/npm-example-project#readme"
+  "homepage": "https://github.com/dougpagani/npm-example-project#readme",
+  "dependencies": {
+    "@dougpagani/example-library": "0.0.0"
+  }
 }
