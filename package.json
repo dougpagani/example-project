@@ -1,0 +1,22 @@
+{
+  "name": "@dougpagani/example-project",
+  "version": "0.0.0",
+  "description": "Test project for npm deprecations",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougpagani/example-project.git"
+  },
+  "author": "Doug Pagani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougpagani/example-project/issues"
+  },
+  "homepage": "https://github.com/dougpagani/example-project#readme"
+}
